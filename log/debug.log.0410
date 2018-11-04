@@ -1,0 +1,666 @@
+----------------------------------------------------------------------------
+[1;33mÑ×»ÆÓ¢ÐÛÊ·[0;37;0m (MudOS v22pre11) starting up on Linux - Wed Apr  9 23:01:03 2003
+
+
+System Error: init_addr_server: gethostbyname:Success
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 3000.
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 56
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 68
+System Error: get_user_data: read:No route to host
+get_user_data: read on fd 67
+System Error: get_user_data: read:No route to host
+get_user_data: read on fd 70
+System Error: get_user_data: read:No route to host
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection timed out
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection timed out
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 56
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 54
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 49
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Only this_object() can be destructed from move_or_destruct.
+
+³ÌÊ½£ºadm/single/simul_efun.c µÚ 108 ÐÐ
+Îï¼þ£º/adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ main() µÚ 44 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_dir() µÚ 96 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_file() µÚ 154 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ destruct() µÚ 108 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºinherit/char/npc.c µÄ move_or_destruct() µÚ 514 ÐÐ£¬Îï¼þ£º kungfu/class/generate/killed#147631 ("Îºäî²»")
+ºô½ÐÀ´×Ô£ºkungfu/class/generate/killed.c µÄ remove() µÚ 112 ÐÐ£¬Îï¼þ£º kungfu/class/generate/killed#147631 ("Îºäî²»")
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ destruct() µÚ 108 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ÐÐÊ±¶Î´íÎó£º*program to replace the current with has to be inherited
+
+³ÌÊ½£ºd/gaibang/midao.c µÚ 21 ÐÐ
+Îï¼þ£º/d/gaibang/midao
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 76 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 76 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºd/gaibang/midao.c µÄ create() µÚ 21 ÐÐ£¬Îï¼þ£º d/gaibang/midao ("Ø¤°ïÃÜµÀ")
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ÐÐÊ±¶Î´íÎó£º*program to replace the current with has to be inherited
+
+³ÌÊ½£ºd/hangzhou/shu-sheng.c µÚ 17 ÐÐ
+Îï¼þ£º/d/hangzhou/shu-sheng
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ main() µÚ 44 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_dir() µÚ 96 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_file() µÚ 159 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ CATCH() µÚ 159 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºd/hangzhou/shu-sheng.c µÄ create() µÚ 17 ÐÐ£¬Îï¼þ£º d/hangzhou/shu-sheng ("ÊéÉú")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Only this_object() can be destructed from move_or_destruct.
+
+³ÌÊ½£ºadm/single/simul_efun.c µÚ 108 ÐÐ
+Îï¼þ£º/adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ main() µÚ 44 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_dir() µÚ 96 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_file() µÚ 154 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ destruct() µÚ 108 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºinherit/char/npc.c µÄ move_or_destruct() µÚ 514 ÐÐ£¬Îï¼þ£º kungfu/class/generate/killed#148964 ("ËÎÌì³¤")
+ºô½ÐÀ´×Ô£ºkungfu/class/generate/killed.c µÄ remove() µÚ 112 ÐÐ£¬Îï¼þ£º kungfu/class/generate/killed#148964 ("ËÎÌì³¤")
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ destruct() µÚ 108 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Only this_object() can be destructed from move_or_destruct.
+
+³ÌÊ½£ºadm/single/simul_efun.c µÚ 108 ÐÐ
+Îï¼þ£º/adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ main() µÚ 44 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_dir() µÚ 96 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_file() µÚ 154 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ destruct() µÚ 108 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºinherit/char/npc.c µÄ move_or_destruct() µÚ 514 ÐÐ£¬Îï¼þ£º kungfu/class/generate/killed#148964 ("ËÎÌì³¤")
+ºô½ÐÀ´×Ô£ºkungfu/class/generate/killed.c µÄ remove() µÚ 112 ÐÐ£¬Îï¼þ£º kungfu/class/generate/killed#148964 ("ËÎÌì³¤")
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ destruct() µÚ 108 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/d/huanghe/npc'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 76 ÐÐ
+Îï¼þ£º/cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 76 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 76 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 49
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+object /clone/user/user#136856: eval_cost too big 800000
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Too long evaluation. Execution aborted.
+
+³ÌÊ½£ºfeature/treemap.c µÚ 21 ÐÐ
+Îï¼þ£º/clone/user/user#136856
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/arch/find.c µÄ main() µÚ 71 ÐÐ£¬Îï¼þ£º cmds/arch/find
+ºô½ÐÀ´×Ô£ºcmds/arch/find.c µÄ search_dir() µÚ 97 ÐÐ£¬Îï¼þ£º cmds/arch/find
+ºô½ÐÀ´×Ô£ºcmds/arch/find.c µÄ search_file() µÚ 166 ÐÐ£¬Îï¼þ£º cmds/arch/find
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ message() µÚ 326 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºfeature/message.c µÄ receive_message() µÚ 174 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query_temp() µÚ 104 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºfeature/treemap.c µÄ _query() µÚ 21 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ÐÐÊ±¶Î´íÎó£º*program to replace the current with has to be inherited
+
+³ÌÊ½£ºd/jingzhou/jing.c µÚ 35 ÐÐ
+Îï¼þ£º/d/jingzhou/jing
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#136856 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ main() µÚ 44 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_dir() µÚ 96 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ update_file() µÚ 159 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºcmds/adm/updateall.c µÄ CATCH() µÚ 159 ÐÐ£¬Îï¼þ£º cmds/adm/updateall
+ºô½ÐÀ´×Ô£ºd/jingzhou/jing.c µÄ create() µÚ 35 ÐÐ£¬Îï¼þ£º d/jingzhou/jing ("ÁèË¼ÍË")
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to all_inventory()
+Expected: object Got: 0.
+
+³ÌÊ½£ºadm/single/simul_efun.c µÚ 107 ÐÐ
+Îï¼þ£º/adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 160 ÐÐ£¬Îï¼þ£º d/kaifeng/npc/zhaohu ("ÕÔ»¢")
+ºô½ÐÀ´×Ô£ºd/kaifeng/npc/zhaohu.c µÄ scan() µÚ 218 ÐÐ£¬Îï¼þ£º d/kaifeng/npc/zhaohu ("ÕÔ»¢")
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ message_vision() µÚ 107 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+Heart beat in d/kaifeng/npc/zhaohu turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to all_inventory()
+Expected: object Got: 0.
+
+³ÌÊ½£ºadm/single/simul_efun.c µÚ 107 ÐÐ
+Îï¼þ£º/adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 160 ÐÐ£¬Îï¼þ£º d/kaifeng/npc/zhanglong ("ÕÅÁú")
+ºô½ÐÀ´×Ô£ºd/kaifeng/npc/zhanglong.c µÄ scan() µÚ 218 ÐÐ£¬Îï¼þ£º d/kaifeng/npc/zhanglong ("ÕÅÁú")
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ message_vision() µÚ 107 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+Heart beat in d/kaifeng/npc/zhanglong turned off.
+get_user_data: read on fd 7
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 57
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 58
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 75
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 72
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 63
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 7
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 74
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 74
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection timed out
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 66
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 63
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 24
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 57
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection timed out
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection timed out
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 64
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºadm/single/simul_efun.c µÚ 293 ÐÐ
+Îï¼þ£º/adm/single/simul_efun
+ºô½ÐÀ´×Ô£ºadm/daemons/logind.c µÄ get_passwd() µÚ 249 ÐÐ£¬Îï¼þ£º adm/daemons/logind
+ºô½ÐÀ´×Ô£ºadm/daemons/logind.c µÄ check_ok() µÚ 348 ÐÐ£¬Îï¼þ£º adm/daemons/logind
+ºô½ÐÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 348 ÐÐ£¬Îï¼þ£º adm/daemons/logind
+ºô½ÐÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 1018 ÐÐ£¬Îï¼þ£º adm/daemons/logind
+ºô½ÐÀ´×Ô£ºadm/single/simul_efun.c µÄ tell_object() µÚ 293 ÐÐ£¬Îï¼þ£º adm/single/simul_efun
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 66
+System Error: get_user_data: read:Connection reset by peer
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/d/register/prison'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 76 ÐÐ
+Îï¼þ£º/cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#258621 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 76 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 76 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 72
+System Error: get_user_data: read:Connection reset by peer
+object /clone/user/user#289237: eval_cost too big 800000
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Too long evaluation. Execution aborted.
+
+³ÌÊ½£ºclone/user/user.c µÚ 1042 ÐÐ
+Îï¼þ£º/clone/user/user#289237
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 75 ÐÐ£¬Îï¼þ£º clone/user/user#286553 ("ÍûÌìÑÄ")
+ºô½ÐÀ´×Ô£ºcmds/arch/examine.c µÄ main() µÚ 35 ÐÐ£¬Îï¼þ£º cmds/arch/examine
+ºô½ÐÀ´×Ô£ºcmds/arch/examine.c µÄ examine_player() µÚ 205 ÐÐ£¬Îï¼þ£º cmds/arch/examine
+ºô½ÐÀ´×Ô£ºclone/user/user.c µÄ restore() µÚ 145 ÐÐ£¬Îï¼þ£º clone/user/user#289237 ("ºÏºõÈÔÈ»")
+ºô½ÐÀ´×Ô£ºclone/user/user.c µÄ calc_sec_id() µÚ 1042 ÐÐ£¬Îï¼þ£º clone/user/user#289237 ("ºÏºõÈÔÈ»")
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 60
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 88
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 68
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 88
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 60
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 71
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+closed external ports

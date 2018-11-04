@@ -1,0 +1,21 @@
+Mar/19/2003 02:39:24 quest: /clone/quest/explore create timeout
+([ /* sizeof() == 8 */
+  "qob" : clone/questob/jinbagua ("½ð°ËØÔ"),
+  "npc" : d/changan/npc/shiye#27224 ("³Â¼ÌÊ¢"),
+  "npc_name" : "³Â¼ÌÊ¢",
+  "start_time" : 1048011410,
+  "npc_id" : "chen jisheng",
+  "qob_name" : "½ð°ËØÔ",
+  "quest_position" : "/d/changan/yamen-datang",
+  "zone" : "/d/changan/",
+])Mar/19/2003 07:09:43 quest: /clone/quest/explore create timeout
+([ /* sizeof() == 8 */
+  "qob" : clone/questob/jingui ("½ð¹ê"),
+  "npc" : 0,
+  "npc_name" : "Ê±¾Å¹«",
+  "start_time" : 1048027900,
+  "npc_id" : "shi jiugong",
+  "qob_name" : "½ð¹ê",
+  "quest_position" : "/d/changan/yaopu",
+  "zone" : "/d/changan/",
+])
